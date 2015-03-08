@@ -6,11 +6,11 @@ A [Metalsmith](http://www.metalsmith.io/) plugin that will render frontend app h
 
 > Your javascript will need to know how to handle these two states. I don't supply that
 
-This helps with issues of Google indexing frontend Javascript project. 
+This helps with issues of Google indexing frontend only Javascript projects. 
 
 ## Setup 
 
-First off you need a Metalsmith project. The install `metalsmith-phantom` into your project. 
+First off you need a Metalsmith project. Then install `metalsmith-phantom` into your project. 
 
 	npm install metalsmith-phantom -S
 
