@@ -2,6 +2,8 @@
 
 A [Metalsmith](http://www.metalsmith.io/) plugin that will render frontend app html into a [phantomjs](http://phantomjs.org/) browser and create static pages from it.
 
+[![Build Status](https://travis-ci.org/jcblw/metalsmith-phantom.svg?branch=master)](https://travis-ci.org/jcblw/metalsmith-phantom)
+
 > Your javascript will need to know how to handle these two states. I don't supply that
 
 This helps with issues of Google indexing frontend Javascript project. 
