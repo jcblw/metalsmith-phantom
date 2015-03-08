@@ -39,6 +39,8 @@ MetalSmith()
   });
 ```
 
+Then make sure you have [PhantomJS installed](http://phantomjs.org/download.html).
+
 ## Signaling From Frontend
 
 Right now, the best way to let PhantomJS know that your app is all rendered is to console log 'PageRendered'. eg.
