@@ -1,5 +1,7 @@
 # MetalSmith Phantom
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/metalsmith-phantom.svg)](https://greenkeeper.io/)
+
 A [Metalsmith](http://www.metalsmith.io/) plugin that will render frontend app html into a [phantomjs](http://phantomjs.org/) browser and create static pages from it.
 
 [![Build Status](https://travis-ci.org/jcblw/metalsmith-phantom.svg?branch=master)](https://travis-ci.org/jcblw/metalsmith-phantom)

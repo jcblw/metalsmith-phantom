@@ -22,12 +22,12 @@
   "homepage": "https://github.com/jcblw/metalsmith-phantom",
   "devDependencies": {
     "coverify": "^1.0.7",
-    "standard": "^3.0.0-alpha",
-    "tape": "^3.5.0"
+    "standard": "^10.0.2",
+    "tape": "^4.6.3"
   },
   "dependencies": {
-    "async": "^0.9.0",
-    "ecstatic": "^0.6.1",
-    "phantom": "^0.7.2"
+    "async": "^2.4.0",
+    "ecstatic": "^2.1.0",
+    "phantom": "^4.0.3"
   }
 }
